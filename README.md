@@ -3,7 +3,7 @@
 
 ## About Me
 
-I started out with Android development in Java, but quickly switched to JavaScript development, and now TypeScript development, for its portability and high level run time model. My experience is mainly full stack JavaScript development (not to be confused as a good frontend developer) with a self driven push to TypeScript in the past three years.
+I started out with Android development in Java, but quickly switched to JavaScript development, and now TypeScript development, for its portability and high level run time model. My experience is mainly full stack JavaScript development (not to be interpreted as: "a good frontend developer") with a self driven push to TypeScript in the past three years.
 
 My immediate goal is to streamline my TypeScript development process, and build platform-agnostic patterns that I can port to other languages
 when I'm ready to start learning them.
@@ -48,7 +48,7 @@ The best way to future proof is to not future proof. Focus on the requirements t
 
 ### Remember the Path
 
-I really enjoy helping people learn, and one of the biggest things that I've learned about teaching is to try and not forget the path I took to obtain the knowledge that I have today. Being able to identify misconceptions, having empathy for why something isn't clicking, and being able to share your mental model are all key skills for working with others. Also don't laugh at people that are learning: Yes, you made the same misconceptions or understand how easy it is to make certain miconceptions, but they won't have your perspective, and it will feel like you are laughing **at** them.
+I really enjoy helping people learn, and one of the biggest things that I've learned about teaching is to try and not forget the path I took to obtain the knowledge that I have today. Being able to identify misconceptions, having empathy for why something isn't clicking, and being able to share your mental model are all key skills for working with others. Also, don't laugh at people that are learning: Yes, you made the same misconceptions or understand how easy it is to make certain miconceptions, but they won't have your perspective, and it will feel like you are laughing **at** them.
 
 When you're standing on top of a mountain, don't be so focused on the clear view ahead that you forget the difficulty of the journey, or you don't go back to clear an easier path for those that follow. Granted, this might be a poor analogy because it's not like you have to go back down the mountain once you get to the top.
 
