@@ -1,4 +1,5 @@
 # Rachid Lamouri
+
 ([/rəʃiːd/](http://ipa-reader.xyz/?text=r%C9%99%CA%83i%CB%90d&voice=Kendra)) he/him
 
 ## About Me
@@ -57,6 +58,10 @@ When you're standing on top of a mountain, don't be so focused on the clear view
 There are always hidden constraints that don't affect developer's until they affect their customers. For example, information can't travel faster than the speed of light, Excel sheets aren't meant to be used as large scale relational databases (or maybe they are, who am I to judge?), and although the number is large, there is a finite limit to how much concurrent traffic a website will receive. In my case, I'm my biggest customer, and I have found that setting constraints up front allows me to narrow the scope of projects and not be surprised by unforseen edge cases when my project starts to scale.
 
 Side note, I use this principle to limit my edge cases, so I don't focus on edge cases that I'm not sure about. For example, I don't have to handle multiple inputs if I don't allow multiple inputs :finger_guns:.
+
+### Concepts are More Important than Words
+
+The way we refer to things is constantly in flux, and should be decoupled from the core concepts that we're trying to represent. That is, we should be able to change the words we use to reflect an ever evolving understanding of the things we're trying to communicate. Furthermore, words themselves can have semantics and connotations that can change over time, and we shouldn't get caught up in what words used to mean to justify remaining ignorant of what they mean today. The more people understand that, the more we can focus on communicating and understanding one another instead of nit-picking how we say things. In fact, we should encourage having multiple ways to say things so that we can have more puns!
 
 ### It's Ok To Rediscover the Wheel
 
