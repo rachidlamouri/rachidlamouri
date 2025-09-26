@@ -1,6 +1,6 @@
 # Rachid Lamouri
 
-([/rəʃiːd/](http://ipa-reader.xyz/?text=r%C9%99%CA%83i%CB%90d&voice=Kendra)) he/him
+([/rəʃiːd/](https://ipa-reader.com/?text=r%C9%99%CA%83i%CB%90d&voice=Kendra)) he/him
 
 ## About Me
 
@@ -62,11 +62,6 @@ Side note, I use this principle to limit my edge cases, so I don't focus on edge
 ### Concepts are More Important than Words
 
 The way we refer to things is constantly in flux, and should be decoupled from the core concepts that we're trying to represent. That is, we should be able to change the words we use to reflect an ever evolving understanding of the things we're trying to communicate. Furthermore, words themselves can have semantics and connotations that can change over time, and we shouldn't get caught up in what words used to mean to justify remaining ignorant of what they mean today. The more people understand that, the more we can focus on communicating and understanding one another instead of nit-picking how we say things. In fact, we should encourage having multiple ways to say things so that we can have more puns!
-
-### It's Ok To Rediscover the Wheel
-
-Some of my best learning experiences have come from trying to solve problems that
-have already been solved. In doing so, you learn why those solutions came to be, and if the constraints that resulted in those solutions are still in the way today.
 
 ### Use Discoverable and Enforceable Conventions
 
