@@ -4,8 +4,7 @@
 
 ## About Me
 
-I started out with Android development in Java, but quickly switched to JavaScript development, and now TypeScript development, for its portability and high level run time model. My experience is mainly full stack JavaScript development (not to be interpreted as: "a good frontend developer") with a self driven push to TypeScript in the past three years.
-
+I started out with Android development in Java, but quickly switched to JavaScript development, and now TypeScript development, for its portability and high level runtime model. My experience is mainly full stack TypeScript development.
 My immediate goal is to streamline my TypeScript development process, and build platform-agnostic patterns that I can port to other languages
 when I'm ready to start learning them.
 
