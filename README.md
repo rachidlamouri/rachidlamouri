@@ -17,10 +17,6 @@ My other hobbies include 3D printing, and playing video games.
 
 I'm building a testing framework for fun, and I'm being super extra about it.
 
-### Open Schema ([open-schema](https://github.com/open-schema))
-
-This one has been in the back of my mind for a long time now, so I'm slowly iterating on the design. The first step is the specification of an interoperable constraint engine, and all of the tooling that plugs into it.
-
 ## Back Burner Projects
 
 I'm focusing on the above [testing-platform](#testing-platform-testing-platform) project to try to fix and/or understand the pain points that I have with existing JavaScript testing frameworks. Therefore, I've had to set aside some projects that I'm really passionate about.
